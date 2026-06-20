@@ -1,4 +1,4 @@
-# Susurro de tu boca
+# Susurro de tu boca, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Susurro de tu boca |
+| **Title** | Susurro de tu boca, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-tu-boca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Susurro de tu boca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-tu-boca/) |
+| **Get License** | [Commercial Licensing for Susurro de tu boca, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-tu-boca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú sabes que esta noche te toca
+> Dejando el mundo atrás, quitándonos la ropa
+> El tiempo se congela en medio de la pista
+> Quiero perderme en el susurro de tu boca
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `50ce0258706407227402193594f871d0e5af2cf666ea39092b526330e259fbd9` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

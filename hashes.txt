@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurro de tu boca, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Susurro de tu boca, Vol. 2** (susurro-de-tu-boca-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:24:59.972051 | `v1` | `50ce0258706407227402193594f871d0e5af2cf666ea39092b526330e259fbd9` | `780b0bb995841bcf9fc22ac430d0e13da60fb0b583517d8b92971f58afc75804` | `2026-06-21_susurro-de-tu-boca-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
